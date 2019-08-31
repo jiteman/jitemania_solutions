@@ -7,3 +7,6 @@
 [submodule "_jmsd_jitemania_components"]
 	path = _jmsd_jitemania_components
 	url = https://github.com/jiteman/_jmsd_jitemania_components.git
+[submodule "_jmsd_foreign_components"]
+	path = _jmsd_foreign_components
+	url = https://github.com/jiteman/_jmsd_foreign_components.git
