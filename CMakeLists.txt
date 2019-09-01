@@ -20,6 +20,8 @@ include( ${JMSD_CMAKE_SETTINGS_PATH}/set-all-settings.cmake )
 JMSD_SHOW_PROJECT_GROUP_HEADER()
 
 
+add_subdirectory( _jmsd_foreign_components )
+
 add_subdirectory( library_subproject_template )
 add_subdirectory( executable_template )
 
