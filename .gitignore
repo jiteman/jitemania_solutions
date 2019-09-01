@@ -32,4 +32,5 @@
 *.app
 
 # qt-creator
-*.user
+CMakeLists.txt.user
+CMakeLists.txt.user.*
