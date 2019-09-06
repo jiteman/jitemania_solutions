@@ -10,3 +10,6 @@
 [submodule "_jmsd_foreign_components"]
 	path = _jmsd_foreign_components
 	url = https://github.com/jiteman/_jmsd_foreign_components.git
+[submodule "_jmsd_documents_and_support"]
+	path = _jmsd_documents_and_support
+	url = https://github.com/jiteman/_jmsd_documents_and_support.git
