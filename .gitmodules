@@ -25,3 +25,6 @@
 [submodule "_jmsd_layer_high_components"]
 	path = _jmsd_layer_high_components
 	url = https://github.com/jiteman/_jmsd_layer_high_components.git
+[submodule "_jmsd_old_components"]
+	path = _jmsd_old_components
+	url = https://github.com/jiteman/_jmsd_old_components.git
