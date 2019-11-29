@@ -13,6 +13,3 @@
 [submodule "_jmsd_documents_and_support"]
 	path = _jmsd_documents_and_support
 	url = https://github.com/jiteman/_jmsd_documents_and_support.git
-[submodule "_jmsd_jms_framework_old"]
-	path = _jmsd_jms_framework_old
-	url = https://github.com/jiteman/_jmsd_jms_framework_old.git
