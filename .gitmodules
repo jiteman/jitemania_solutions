@@ -19,3 +19,6 @@
 [submodule "_jmsd_layer_low_components"]
 	path = _jmsd_layer_low_components
 	url = https://github.com/jiteman/_jmsd_layer_low_components.git
+[submodule "_jmsd_layer_middle_components"]
+	path = _jmsd_layer_middle_components
+	url = https://github.com/jiteman/_jmsd_layer_middle_components.git
