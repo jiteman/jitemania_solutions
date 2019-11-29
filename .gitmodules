@@ -22,3 +22,6 @@
 [submodule "_jmsd_layer_middle_components"]
 	path = _jmsd_layer_middle_components
 	url = https://github.com/jiteman/_jmsd_layer_middle_components.git
+[submodule "_jmsd_layer_high_components"]
+	path = _jmsd_layer_high_components
+	url = https://github.com/jiteman/_jmsd_layer_high_components.git
