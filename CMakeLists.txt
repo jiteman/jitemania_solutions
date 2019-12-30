@@ -28,6 +28,8 @@ add_subdirectory( _jmsd_tpa_components )
 
 add_subdirectory( _jmsd_old_components )
 
+add_subdirectory( _jmsd_migration_components )
+
 ### add_subdirectory( _jmsd_jitemania_components )
 add_subdirectory( _jmsd_layer_low_components )
 #add_subdirectory( _jmsd_layer_middle_components )
