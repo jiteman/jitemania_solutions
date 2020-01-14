@@ -34,3 +34,4 @@
 # qt-creator
 CMakeLists.txt.user
 CMakeLists.txt.user.*
+.cmake
