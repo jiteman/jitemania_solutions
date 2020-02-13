@@ -24,9 +24,9 @@ add_subdirectory( library_subproject_template )
 add_subdirectory( executable_template )
 
 add_subdirectory( _jmsd_foreign_components )
-#add_subdirectory( _jmsd_tpa_components )
+add_subdirectory( _jmsd_tpa_components )
 
-#add_subdirectory( _jmsd_old_components )
+add_subdirectory( _jmsd_old_components )
 
 #add_subdirectory( _jmsd_migration_components )
 
