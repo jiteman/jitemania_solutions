@@ -23,17 +23,24 @@ JMSD_SHOW_PROJECT_GROUP_HEADER()
 add_subdirectory( library_subproject_template )
 add_subdirectory( executable_template )
 
+# foreign components
 add_subdirectory( _jmsd_foreign_components )
-add_subdirectory( _jmsd_tpa_components )
+#add_subdirectory( _jmsd_tpa_components )
+#~foreign components
 
-add_subdirectory( _jmsd_old_components )
+# old jitemania components
+#add_subdirectory( _jmsd_old_components )
+#~jitemania components
 
-add_subdirectory( _jmsd_migration_components )
+# pre jitemania components
+#add_subdirectory( _jmsd_migration_components )
+#~pre jitemania components
 
-### add_subdirectory( _jmsd_jitemania_components )
-add_subdirectory( _jmsd_layer_low_components )
+# jitemania components
+#add_subdirectory( _jmsd_layer_low_components )
 ##add_subdirectory( _jmsd_layer_middle_components )
 ##add_subdirectory( _jmsd_layer_high_components )
+#~jitemania components
 
 
 JMSD_SHOW_PROJECT_GROUP_FOOTER()
