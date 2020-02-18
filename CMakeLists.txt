@@ -25,19 +25,19 @@ add_subdirectory( executable_template )
 
 # foreign components
 add_subdirectory( _jmsd_foreign_components )
-#add_subdirectory( _jmsd_tpa_components )
+add_subdirectory( _jmsd_tpa_components )
 #~foreign components
 
 # old jitemania components
-#add_subdirectory( _jmsd_old_components )
+add_subdirectory( _jmsd_old_components )
 #~jitemania components
 
 # pre jitemania components
-#add_subdirectory( _jmsd_migration_components )
+add_subdirectory( _jmsd_migration_components )
 #~pre jitemania components
 
 # jitemania components
-#add_subdirectory( _jmsd_layer_low_components )
+add_subdirectory( _jmsd_layer_low_components )
 ##add_subdirectory( _jmsd_layer_middle_components )
 ##add_subdirectory( _jmsd_layer_high_components )
 #~jitemania components
