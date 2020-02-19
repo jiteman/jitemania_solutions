@@ -28,3 +28,6 @@
 [submodule "_jmsd_migration_components"]
 	path = _jmsd_migration_components
 	url = https://github.com/jiteman/_jmsd_migration_components.git
+[submodule "_jmsd_experimental"]
+	path = _jmsd_experimental
+	url = https://github.com/jiteman/_jmsd_experimental.git
